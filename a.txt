@@ -1,5 +1,5 @@
 colors:
 pink 
 blue
-rose
-jasmine
+red
+yellow
